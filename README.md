@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Err0rwebpag3notavailable
-- 👀 I’m interested in Learning cyber security and Web deveolpment at the moment
-- 🌱 I’m currently learning Html and CSS
+- 👀 I’m interested in Learning the ins and outs of java minecraft
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me tctczll@gmail.com
 
